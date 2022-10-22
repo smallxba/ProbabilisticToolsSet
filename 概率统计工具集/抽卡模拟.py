@@ -46,3 +46,7 @@ def card_draw(pay=100000000, p=0.01, times=10):
 
 
 print(card_draw(p=0.25, times=3))
+1
+2
+3
+4
